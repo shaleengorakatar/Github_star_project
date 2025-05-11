@@ -9,6 +9,4 @@ My question will be the following:
 
 *Which explanatory variables best predict stars on a GitHub repository?*
 
-Please see the [Jupyter notebook](https://github.com/chloezandberg/stat301-final-project-group/blob/main/final-project.ipynb) to view the full analysis, including statistical tables and figures.
-
 #### Thanks for your interest in my research project!
